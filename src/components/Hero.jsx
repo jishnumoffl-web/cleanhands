@@ -81,7 +81,7 @@ export default function Hero() {
             <div className="absolute -top-8 -left-8 w-40 h-40 bg-yellow-400 rounded-full blur-3xl opacity-20"></div>
 
             <img
-              src="https://copilot.microsoft.com/th/id/BCO.15677a32-2261-4cce-8351-4f26e19fdf7c.png"
+              src="/images/hero.webp"
               alt="Cleaning Service"
               className="relative z-10 w-full object-cover"
             />
