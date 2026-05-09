@@ -47,17 +47,17 @@ export default function ContactPage() {
               {
                 icon: <Phone size={26} />,
                 title: "Phone Number",
-                value: "+91 9876543210",
+                value: "+91 7025725364",
               },
               {
                 icon: <Mail size={26} />,
                 title: "Email Address",
-                value: "cleanhands@gmail.com",
+                value: "Cleanhands77@gmail.com",
               },
               {
                 icon: <MapPin size={26} />,
                 title: "Location",
-                value: "Ambalapuzha, Alappuzha",
+                value: "Kollam, kottayam, pathanamthitta, alappuzha",
               },
               {
                 icon: <Clock3 size={26} />,
@@ -111,7 +111,7 @@ export default function ContactPage() {
 
               {/* WHATSAPP BUTTON */}
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/917025725364"
                 target="_blank"
                 className="inline-flex items-center gap-3 bg-[#25D366] text-white px-8 py-4 rounded-full font-semibold mt-10 hover:scale-105 transition duration-300"
               >

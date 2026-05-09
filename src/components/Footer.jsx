@@ -24,9 +24,9 @@ export default function Footer() {
 
         <div>
           <h3 className="text-xl mb-4">Contact</h3>
-          <p>Ambalapuzha, Alappuzha</p>
-          <p>+91 9876543210</p>
-          <p>cleanhands@gmail.com</p>
+          <p>Kollam, kottayam, pathanamthitta, alappuzha</p>
+          <p>+91 7025725364</p>
+          <p>Cleanhands77@gmail.com</p>
         </div>
       </div>
     </footer>

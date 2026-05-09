@@ -171,7 +171,7 @@ export default function Hero() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                title: "Deep Cleaning",
+                title: "Residential Deep Cleaning",
                 image: "/images/deep.webp",
               },
               {
@@ -183,7 +183,7 @@ export default function Hero() {
                 image: "/images/bathroom.webp",
               },
               {
-                title: "Housekeeping",
+                title: "Commercial deep cleaning",
                 image: "/images/house.webp",
               },
               {
@@ -191,7 +191,7 @@ export default function Hero() {
                 image: "/images/apartment.webp",
               },
               {
-                title: "Sofa Cleaning",
+                title: "Upholstery cleaning",
                 image: "/images/sofa.webp",
               },
             ].map((service, index) => (
@@ -402,7 +402,7 @@ export default function Hero() {
                 </p>
 
                 <a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/917025725364"
                   target="_blank"
                   className="inline-flex items-center gap-3 bg-yellow-400 text-black px-8 py-4 rounded-full font-semibold mt-10 hover:scale-105 transition duration-300"
                 >
