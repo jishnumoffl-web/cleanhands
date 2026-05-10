@@ -38,8 +38,9 @@ export default function Hero() {
 
             <p className="text-gray-300 text-lg mt-6 leading-8 max-w-xl">
               CleanHands Cleaning Solutions provides reliable residential
-              cleaning & housekeeping services in Ambalapuzha, Alappuzha.
-              Experience spotless cleaning with trusted professionals.
+              cleaning & housekeeping services in Kollam, kottayam,
+              pathanamthitta, alappuzha. Experience spotless cleaning with
+              trusted professionals.
             </p>
 
             <div className="flex flex-wrap gap-4 mt-10">
