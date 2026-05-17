@@ -12,8 +12,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Clean hands cleaning solution",
-  description: "Best cleaning solution in kerala,alappuzha",
+  title:
+    "Best Home Cleaning Service in Kollam & Kundara | Clean Hands Cleaning",
+  description:
+    "Professional home cleaning, deep cleaning, sofa cleaning, and office cleaning services in Kollam, Kundara, and across Kerala.",
+  keywords: [
+    "cleaning service kollam",
+    "home cleaning kundara",
+    "deep cleaning kollam",
+    "sofa cleaning kerala",
+    "office cleaning kollam",
+    "clean hands cleaning",
+  ],
 };
 
 export default function RootLayout({ children }) {
